@@ -25,10 +25,6 @@
                 android:value=".LoginActivity" />
         </activity>
         <activity
-            android:name=".ReferencyActivity"
-            android:label="@string/title_activity_referency"
-            android:theme="@style/AppTheme"></activity>
-        <activity
             android:name=".view.ContainerActivity"
             android:parentActivityName=".LoginActivity">
             <meta-data
