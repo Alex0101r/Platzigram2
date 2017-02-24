@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">Platzigram</string>
+    <string name="title_activity_referency">ReferencyActivity</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_confirm_Password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">Alexander Susa</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likenumber_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondworddetail">Me gusta</string>
+    <string name="titleimagedetail">Harry Potter</string>
+    <string name="lorem">Ryan (1969), lo define como una organización de componentes interrelacionados e interdependientes, con la organización general y con el medio o contexto en el cual se ubica.  Esta relación se mantiene mediante formas de operación y de información entre el sistema y el contexto, con el propósito de lograr los objetivos, asignados a la organización o sistema. Silvern (1968), establece que un sistema es la estructura u organización de un todo, que muestra claramente las interrelaciones de las partes entre sí y con la totalidad a la cual pertenecen. Kaufman (1972), define un sistema como la suma total de partes trabajando interdependientemente entre si para lograr resultados requeridos, con base en necesidades establecidas. Bertalanffy (1973), define un sistema como un conjunto de elementos interactuando.</string>
+    <string name="transitionname_picture">transitionnameparapicture</string>
+    <string name="hint_Buscar_Fotos">Buscar Fotos...</string>
+    <string name="searchhinttext">Buscar Fotos...</string>
+</resources>
